@@ -1,0 +1,74 @@
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\RestSharp.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Buffers.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Memory.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Text.Json.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.ValueTuple.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\RestSharp.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Buffers.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Memory.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Text.Json.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\System.ValueTuple.xml
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\obj\Debug\UnitTestProject.csproj.AssemblyReference.cache
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\obj\Debug\UnitTestProject.pdb
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\micha\source\repos\ESO SDET Coding Exercise\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\UnitTestProject.dll.config
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\UnitTestProject.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\UnitTestProject.pdb
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\RestSharp.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Buffers.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Memory.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Text.Json.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.ValueTuple.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\RestSharp.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Buffers.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Memory.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Text.Json.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\bin\Debug\System.ValueTuple.xml
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\obj\Debug\UnitTestProject.csprojAssemblyReference.cache
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\obj\Debug\UnitTestProject.csproj.CoreCompileInputs.cache
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\obj\Debug\UnitTestProject.csproj.CopyComplete
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\obj\Debug\UnitTestProject.dll
+C:\Users\Caoimhe\Documents\eso-sdet-exercise\UnitTestProject\obj\Debug\UnitTestProject.pdb
