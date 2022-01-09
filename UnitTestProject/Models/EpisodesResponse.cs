@@ -6,7 +6,6 @@ using System.Threading.Tasks;
 
 namespace UnitTestProject
 {
-    // Root myDeserializedClass = JsonConvert.DeserializeObject<Root>(myJsonResponse); 
 
     public class Episodes
     {
